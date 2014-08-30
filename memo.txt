@@ -1,0 +1,284 @@
+[daisuke@daikonMacbookAir11 Ghost]$ grunt init
+Running "shell:bower" (shell) task
+bower device#5347a275b66020a0d4dfe9aad81a488f8cce448d       not-cached git://github.com/matthewhudson/device.js.git#5347a275b66020a0d4dfe9aad81a488f8cce448d
+bower device#5347a275b66020a0d4dfe9aad81a488f8cce448d          resolve git://github.com/matthewhudson/device.js.git#5347a275b66020a0d4dfe9aad81a488f8cce448d
+bower ember-load-initializers#0.0.1                         not-cached git://github.com/stefanpenner/ember-load-initializers.git#0.0.1
+bower ember-load-initializers#0.0.1                            resolve git://github.com/stefanpenner/ember-load-initializers.git#0.0.1
+bower ember-resolver#181251821cf513bb58d3e192faa13245a816f75e       not-cached git://github.com/stefanpenner/ember-jj-abrams-resolver.git#181251821cf513bb58d3e192faa13245a816f75e
+bower ember-resolver#181251821cf513bb58d3e192faa13245a816f75e          resolve git://github.com/stefanpenner/ember-jj-abrams-resolver.git#181251821cf513bb58d3e192faa13245a816f75e
+bower keymaster#0f09fc1b7e66c2b7e07afe89a419366dcf2d1cd8            not-cached git://github.com/madrobby/keymaster.git#0f09fc1b7e66c2b7e07afe89a419366dcf2d1cd8
+bower keymaster#0f09fc1b7e66c2b7e07afe89a419366dcf2d1cd8               resolve git://github.com/madrobby/keymaster.git#0f09fc1b7e66c2b7e07afe89a419366dcf2d1cd8
+bower loader.js#1.0.0                                               not-cached git://github.com/stefanpenner/loader.js.git#1.0.0
+bower loader.js#1.0.0                                                  resolve git://github.com/stefanpenner/loader.js.git#1.0.0
+bower showdown#v0.3.2-ghost                                         not-cached git://github.com/ErisDS/showdown.git#v0.3.2-ghost
+bower showdown#v0.3.2-ghost                                            resolve git://github.com/ErisDS/showdown.git#v0.3.2-ghost
+bower device#5347a275b66020a0d4dfe9aad81a488f8cce448d                 checkout 5347a275b66020a0d4dfe9aad81a488f8cce448d
+bower keymaster#0f09fc1b7e66c2b7e07afe89a419366dcf2d1cd8              checkout 0f09fc1b7e66c2b7e07afe89a419366dcf2d1cd8
+bower ember-resolver#181251821cf513bb58d3e192faa13245a816f75e         checkout 181251821cf513bb58d3e192faa13245a816f75e
+bower ember#1.7.0                                                   not-cached git://github.com/components/ember.git#1.7.0
+bower ember#1.7.0                                                      resolve git://github.com/components/ember.git#1.7.0
+bower Countable#2.0.2                                               not-cached git://github.com/RadLikeWhoa/Countable.git#2.0.2
+bower Countable#2.0.2                                                  resolve git://github.com/RadLikeWhoa/Countable.git#2.0.2
+bower ember-simple-auth#0.6.4                                       not-cached git://github.com/simplabs/ember-simple-auth-component.git#0.6.4
+bower ember-simple-auth#0.6.4                                          resolve git://github.com/simplabs/ember-simple-auth-component.git#0.6.4
+bower codemirror#4.0.1                                              not-cached git://github.com/marijnh/CodeMirror.git#4.0.1
+bower codemirror#4.0.1                                                 resolve git://github.com/marijnh/CodeMirror.git#4.0.1
+bower ember-data#~1.0.0-beta.8                                      not-cached git://github.com/components/ember-data.git#~1.0.0-beta.8
+bower ember-data#~1.0.0-beta.8                                         resolve git://github.com/components/ember-data.git#~1.0.0-beta.8
+bower ember-load-initializers#0.0.1                                   download https://github.com/stefanpenner/ember-load-initializers/archive/0.0.1.tar.gz
+bower showdown#v0.3.2-ghost                                           download https://github.com/ErisDS/showdown/archive/v0.3.2-ghost.tar.gz
+bower loader.js#1.0.0                                                 download https://github.com/stefanpenner/loader.js/archive/1.0.0.tar.gz
+bower fastclick#1.0.0                                               not-cached git://github.com/ftlabs/fastclick.git#1.0.0
+bower fastclick#1.0.0                                                  resolve git://github.com/ftlabs/fastclick.git#1.0.0
+bower ghost-ui#~0.9                                                 not-cached git://github.com/TryGhost/Ghost-UI.git#~0.9
+bower ghost-ui#~0.9                                                    resolve git://github.com/TryGhost/Ghost-UI.git#~0.9
+bower jquery-file-upload#9.5.6                                      not-cached git://github.com/blueimp/jQuery-File-Upload.git#9.5.6
+bower jquery-file-upload#9.5.6                                         resolve git://github.com/blueimp/jQuery-File-Upload.git#9.5.6
+bower handlebars#1.3.0                                              not-cached git://github.com/components/handlebars.js.git#1.3.0
+bower handlebars#1.3.0                                                 resolve git://github.com/components/handlebars.js.git#1.3.0
+bower ic-ajax#1.0.1                                                 not-cached git://github.com/instructure/ic-ajax.git#1.0.1
+bower ic-ajax#1.0.1                                                    resolve git://github.com/instructure/ic-ajax.git#1.0.1
+bower Countable#2.0.2                                                 download https://github.com/RadLikeWhoa/Countable/archive/v2.0.2.tar.gz
+bower jquery-hammerjs#1.0.1                                         not-cached git://github.com/EightMedia/jquery.hammer.js.git#1.0.1
+bower jquery-hammerjs#1.0.1                                            resolve git://github.com/EightMedia/jquery.hammer.js.git#1.0.1
+bower jquery-ui#1.10.4                                              not-cached git://github.com/components/jqueryui.git#1.10.4
+bower jquery-ui#1.10.4                                                 resolve git://github.com/components/jqueryui.git#1.10.4
+bower ember-data#~1.0.0-beta.8                                        download https://github.com/components/ember-data/archive/v1.0.0-beta.9.tar.gz
+bower ember-simple-auth#0.6.4                                         download https://github.com/simplabs/ember-simple-auth-component/archive/0.6.4.tar.gz
+bower nprogress#0.1.2                                               not-cached git://github.com/rstacruz/nprogress.git#0.1.2
+bower nprogress#0.1.2                                                  resolve git://github.com/rstacruz/nprogress.git#0.1.2
+bower moment#2.4.0                                                  not-cached git://github.com/moment/moment.git#2.4.0
+bower moment#2.4.0                                                     resolve git://github.com/moment/moment.git#2.4.0
+bower validator-js#3.4.0                                            not-cached git://github.com/chriso/validator.js.git#3.4.0
+bower validator-js#3.4.0                                               resolve git://github.com/chriso/validator.js.git#3.4.0
+bower ember#1.7.0                                                     download https://github.com/components/ember/archive/1.7.0.tar.gz
+bower google-caja#5669.0.0                                          not-cached git://github.com/minrk/google-caja-bower.git#5669.0.0
+bower google-caja#5669.0.0                                             resolve git://github.com/minrk/google-caja-bower.git#5669.0.0
+bower jquery#1.11.0                                                 not-cached git://github.com/jquery/jquery.git#1.11.0
+bower jquery#1.11.0                                                    resolve git://github.com/jquery/jquery.git#1.11.0
+bower ghost-ui#~0.9                                                   download https://github.com/TryGhost/Ghost-UI/archive/0.9.1.tar.gz
+bower ic-ajax#1.0.1                                                   download https://github.com/instructure/ic-ajax/archive/v1.0.1.tar.gz
+bower handlebars#1.3.0                                                download https://github.com/components/handlebars.js/archive/v1.3.0.tar.gz
+bower lodash#2.4.1                                                      cached git://github.com/lodash/lodash.git#2.4.1
+bower lodash#2.4.1                                                    validate 2.4.1 against git://github.com/lodash/lodash.git#2.4.1
+bower jquery-hammerjs#1.0.1                                           download https://github.com/EightMedia/jquery.hammer.js/archive/1.0.1.tar.gz
+bower jquery-ui#1.10.4                                                download https://github.com/components/jqueryui/archive/1.10.4.tar.gz
+bower fastclick#1.0.0                                                 download https://github.com/ftlabs/fastclick/archive/v1.0.0.tar.gz
+bower nprogress#0.1.2                                                 download https://github.com/rstacruz/nprogress/archive/v0.1.2.tar.gz
+bower jquery-file-upload#9.5.6                                        download https://github.com/blueimp/jQuery-File-Upload/archive/9.5.6.tar.gz
+bower google-caja#5669.0.0                                            download https://github.com/minrk/google-caja-bower/archive/5669.0.0.tar.gz
+bower validator-js#3.4.0                                              download https://github.com/chriso/validator.js/archive/3.4.0.tar.gz
+bower device#5347a275b66020a0d4dfe9aad81a488f8cce448d             invalid-meta device is missing "main" entry in bower.json
+bower device#5347a275b66020a0d4dfe9aad81a488f8cce448d             invalid-meta device is missing "ignore" entry in bower.json
+bower device#5347a275b66020a0d4dfe9aad81a488f8cce448d                 resolved git://github.com/matthewhudson/device.js.git#5347a275b6
+bower moment#2.4.0                                                    download https://github.com/moment/moment/archive/2.4.0.tar.gz
+bower keymaster#0f09fc1b7e66c2b7e07afe89a419366dcf2d1cd8          invalid-meta keymaster is missing "main" entry in bower.json
+bower keymaster#0f09fc1b7e66c2b7e07afe89a419366dcf2d1cd8          invalid-meta keymaster is missing "ignore" entry in bower.json
+bower keymaster#0f09fc1b7e66c2b7e07afe89a419366dcf2d1cd8              resolved git://github.com/madrobby/keymaster.git#0f09fc1b7e
+bower codemirror#4.0.1                                                download https://github.com/marijnh/CodeMirror/archive/4.0.1.tar.gz
+bower loader.js#1.0.0                                                  extract archive.tar.gz
+bower ember-load-initializers#0.0.1                                    extract archive.tar.gz
+bower ember-load-initializers#0.0.1                                   resolved git://github.com/stefanpenner/ember-load-initializers.git#0.0.1
+bower loader.js#1.0.0                                                 mismatch Version declared in the json (0.0.0) is different than the resolved one (1.0.0)
+bower loader.js#1.0.0                                                 resolved git://github.com/stefanpenner/loader.js.git#1.0.0
+bower showdown#v0.3.2-ghost                                            extract archive.tar.gz
+bower ember-resolver#181251821cf513bb58d3e192faa13245a816f75e         resolved git://github.com/stefanpenner/ember-jj-abrams-resolver.git#181251821c
+bower showdown#v0.3.2-ghost                                       invalid-meta showdown is missing "main" entry in bower.json
+bower showdown#v0.3.2-ghost                                       invalid-meta showdown is missing "ignore" entry in bower.json
+bower showdown#v0.3.2-ghost                                           resolved git://github.com/ErisDS/showdown.git#0.3.2-ghost
+bower ember-simple-auth#0.6.4                                          extract archive.tar.gz
+bower ember-simple-auth#0.6.4                                     invalid-meta ember-simple-auth is missing "ignore" entry in bower.json
+bower ember-simple-auth#0.6.4                                         resolved git://github.com/simplabs/ember-simple-auth-component.git#0.6.4
+bower jquery#1.11.0                                                   download https://github.com/jquery/jquery/archive/1.11.0.tar.gz
+bower Countable#2.0.2                                                  extract archive.tar.gz
+bower Countable#2.0.2                                                 resolved git://github.com/RadLikeWhoa/Countable.git#2.0.2
+bower ic-ajax#1.0.1                                                    extract archive.tar.gz
+bower ic-ajax#1.0.1                                               invalid-meta ic-ajax is missing "main" entry in bower.json
+bower ic-ajax#1.0.1                                                   resolved git://github.com/instructure/ic-ajax.git#1.0.1
+bower ember-data#~1.0.0-beta.8                                         extract archive.tar.gz
+bower ember-data#~1.0.0-beta.8                                    invalid-meta ember-data is missing "ignore" entry in bower.json
+bower ember-data#~1.0.0-beta.8                                        resolved git://github.com/components/ember-data.git#1.0.0-beta.9
+bower ghost-ui#~0.9                                                    extract archive.tar.gz
+bower jquery-hammerjs#1.0.1                                            extract archive.tar.gz
+bower handlebars#1.3.0                                                 extract archive.tar.gz
+bower jquery-hammerjs#1.0.1                                           resolved git://github.com/EightMedia/jquery.hammer.js.git#1.0.1
+bower handlebars#1.3.0                                            invalid-meta handlebars is missing "ignore" entry in bower.json
+bower handlebars#1.3.0                                                resolved git://github.com/components/handlebars.js.git#1.3.0
+bower ghost-ui#~0.9                                               invalid-meta ghost-ui is missing "main" entry in bower.json
+bower ghost-ui#~0.9                                                   resolved git://github.com/TryGhost/Ghost-UI.git#0.9.1
+bower jquery-file-upload#9.5.6                                         extract archive.tar.gz
+bower fastclick#1.0.0                                                  extract archive.tar.gz
+bower fastclick#1.0.0                                                 resolved git://github.com/ftlabs/fastclick.git#1.0.0
+bower hammerjs#1.0.x                                                not-cached git://github.com/EightMedia/hammer.js.git#1.0.x
+bower hammerjs#1.0.x                                                   resolve git://github.com/EightMedia/hammer.js.git#1.0.x
+bower jquery-file-upload#9.5.6                                        resolved git://github.com/blueimp/jQuery-File-Upload.git#9.5.6
+bower normalize-scss#~3.0.1                                         not-cached git://github.com/appleboy/normalize.scss.git#~3.0.1
+bower normalize-scss#~3.0.1                                            resolve git://github.com/appleboy/normalize.scss.git#~3.0.1
+bower hammerjs#1.0.x                                                  download https://github.com/EightMedia/hammer.js/archive/1.0.11.tar.gz
+bower validator-js#3.4.0                                               extract archive.tar.gz
+bower validator-js#3.4.0                                          invalid-meta validator-js is missing "main" entry in bower.json
+bower validator-js#3.4.0                                          invalid-meta validator-js is missing "ignore" entry in bower.json
+bower validator-js#3.4.0                                              resolved git://github.com/chriso/validator.js.git#3.4.0
+bower normalize-scss#~3.0.1                                           download https://github.com/appleboy/normalize.scss/archive/3.0.1.tar.gz
+bower blueimp-load-image#>=1.11.0                                   not-cached git://github.com/blueimp/JavaScript-Load-Image.git#>=1.11.0
+bower blueimp-load-image#>=1.11.0                                      resolve git://github.com/blueimp/JavaScript-Load-Image.git#>=1.11.0
+bower blueimp-canvas-to-blob#>=2.1.0                                not-cached git://github.com/blueimp/JavaScript-Canvas-to-Blob.git#>=2.1.0
+bower blueimp-canvas-to-blob#>=2.1.0                                   resolve git://github.com/blueimp/JavaScript-Canvas-to-Blob.git#>=2.1.0
+bower jquery-ui#1.10.4                                                 extract archive.tar.gz
+bower blueimp-load-image#>=1.11.0                                     download https://github.com/blueimp/JavaScript-Load-Image/archive/1.12.0.tar.gz
+bower blueimp-canvas-to-blob#>=2.1.0                                  download https://github.com/blueimp/JavaScript-Canvas-to-Blob/archive/2.1.0.tar.gz
+bower nprogress#0.1.2                                                  extract archive.tar.gz
+bower codemirror#4.0.1                                                 extract archive.tar.gz
+bower blueimp-tmpl#>=2.5.3                                          not-cached git://github.com/blueimp/JavaScript-Templates.git#>=2.5.3
+bower blueimp-tmpl#>=2.5.3                                             resolve git://github.com/blueimp/JavaScript-Templates.git#>=2.5.3
+bower nprogress#0.1.2                                                 resolved git://github.com/rstacruz/nprogress.git#0.1.2
+bower blueimp-tmpl#>=2.5.3                                            download https://github.com/blueimp/JavaScript-Templates/archive/2.5.4.tar.gz
+bower google-caja#5669.0.0                                             extract archive.tar.gz
+bower normalize-scss#~3.0.1                                            extract archive.tar.gz
+bower moment#2.4.0                                                     extract archive.tar.gz
+bower normalize-scss#~3.0.1                                           resolved git://github.com/appleboy/normalize.scss.git#3.0.1
+bower ember#1.7.0                                                      extract archive.tar.gz
+bower blueimp-canvas-to-blob#>=2.1.0                                   extract archive.tar.gz
+bower blueimp-tmpl#>=2.5.3                                             extract archive.tar.gz
+bower blueimp-canvas-to-blob#>=2.1.0                                  resolved git://github.com/blueimp/JavaScript-Canvas-to-Blob.git#2.1.0
+bower blueimp-tmpl#>=2.5.3                                            resolved git://github.com/blueimp/JavaScript-Templates.git#2.5.4
+bower blueimp-load-image#>=1.11.0                                      extract archive.tar.gz
+bower jquery-ui#1.10.4                                            invalid-meta jquery-ui is missing "ignore" entry in bower.json
+bower jquery-ui#1.10.4                                                resolved git://github.com/components/jqueryui.git#1.10.4
+bower blueimp-load-image#>=1.11.0                                     resolved git://github.com/blueimp/JavaScript-Load-Image.git#1.12.0
+bower ember#1.7.0                                                 invalid-meta ember is missing "ignore" entry in bower.json
+bower ember#1.7.0                                                     resolved git://github.com/components/ember.git#1.7.0
+bower google-caja#5669.0.0                                        invalid-meta google-caja is missing "main" entry in bower.json
+bower google-caja#5669.0.0                                            resolved git://github.com/minrk/google-caja-bower.git#5669.0.0
+bower moment#2.4.0                                                    resolved git://github.com/moment/moment.git#2.4.0
+bower codemirror#4.0.1                                                resolved git://github.com/marijnh/CodeMirror.git#4.0.1
+bower jquery#1.11.0                                                    extract archive.tar.gz
+bower jquery#1.11.0                                                   resolved git://github.com/jquery/jquery.git#1.11.0
+bower hammerjs#1.0.x                                                   extract archive.tar.gz
+bower hammerjs#1.0.x                                                  resolved git://github.com/EightMedia/hammer.js.git#1.0.11
+bower device#5347a275b66020a0d4dfe9aad81a488f8cce448d                  install device#5347a275b6
+bower lodash#2.4.1                                                     install lodash#2.4.1
+bower keymaster#0f09fc1b7e66c2b7e07afe89a419366dcf2d1cd8               install keymaster#0f09fc1b7e
+bower ember-load-initializers#0.0.1                                    install ember-load-initializers#0.0.1
+bower loader.js#1.0.0                                                  install loader.js#1.0.0
+bower ember-resolver#181251821cf513bb58d3e192faa13245a816f75e          install ember-resolver#181251821c
+bower showdown#v0.3.2-ghost                                            install showdown#0.3.2-ghost
+bower ember-simple-auth#0.6.4                                          install ember-simple-auth#0.6.4
+bower Countable#2.0.2                                                  install Countable#2.0.2
+bower ic-ajax#1.0.1                                                    install ic-ajax#1.0.1
+bower ember-data#~1.0.0-beta.8                                         install ember-data#1.0.0-beta.9
+bower jquery-hammerjs#1.0.1                                            install jquery-hammerjs#1.0.1
+bower handlebars#1.3.0                                                 install handlebars#1.3.0
+bower ghost-ui#~0.9                                                    install ghost-ui#0.9.1
+bower fastclick#1.0.0                                                  install fastclick#1.0.0
+bower jquery-file-upload#9.5.6                                         install jquery-file-upload#9.5.6
+bower validator-js#3.4.0                                               install validator-js#3.4.0
+bower nprogress#0.1.2                                                  install nprogress#0.1.2
+bower normalize-scss#~3.0.1                                            install normalize-scss#3.0.1
+bower blueimp-canvas-to-blob#>=2.1.0                                   install blueimp-canvas-to-blob#2.1.0
+bower blueimp-tmpl#>=2.5.3                                             install blueimp-tmpl#2.5.4
+bower jquery-ui#1.10.4                                                 install jquery-ui#1.10.4
+bower blueimp-load-image#>=1.11.0                                      install blueimp-load-image#1.12.0
+bower ember#1.7.0                                                      install ember#1.7.0
+bower google-caja#5669.0.0                                             install google-caja#5669.0.0
+bower moment#2.4.0                                                     install moment#2.4.0
+bower codemirror#4.0.1                                                 install codemirror#4.0.1
+bower jquery#1.11.0                                                    install jquery#1.11.0
+bower hammerjs#1.0.x                                                   install hammerjs#1.0.11
+
+device#5347a275b6 bower_components/device
+
+lodash#2.4.1 bower_components/lodash
+
+keymaster#0f09fc1b7e bower_components/keymaster
+
+ember-load-initializers#0.0.1 bower_components/ember-load-initializers
+└── ember#1.7.0
+
+loader.js#1.0.0 bower_components/loader.js
+
+ember-resolver#181251821c bower_components/ember-resolver
+└── ember#1.7.0
+
+showdown#0.3.2-ghost bower_components/showdown
+
+ember-simple-auth#0.6.4 bower_components/ember-simple-auth
+└── ember#1.7.0
+
+Countable#2.0.2 bower_components/Countable
+
+ic-ajax#1.0.1 bower_components/ic-ajax
+└── ember#1.7.0
+
+ember-data#1.0.0-beta.9 bower_components/ember-data
+└── ember#1.7.0
+
+jquery-hammerjs#1.0.1 bower_components/jquery-hammerjs
+└── hammerjs#1.0.11
+
+handlebars#1.3.0 bower_components/handlebars
+
+ghost-ui#0.9.1 bower_components/ghost-ui
+└── normalize-scss#3.0.1
+
+fastclick#1.0.0 bower_components/fastclick
+
+jquery-file-upload#9.5.6 bower_components/jquery-file-upload
+├── blueimp-canvas-to-blob#2.1.0
+├── blueimp-load-image#1.12.0
+├── blueimp-tmpl#2.5.4
+└── jquery#1.11.0
+
+validator-js#3.4.0 bower_components/validator-js
+
+nprogress#0.1.2 bower_components/nprogress
+└── jquery#1.11.0
+
+normalize-scss#3.0.1 bower_components/normalize-scss
+
+blueimp-canvas-to-blob#2.1.0 bower_components/blueimp-canvas-to-blob
+
+blueimp-tmpl#2.5.4 bower_components/blueimp-tmpl
+
+jquery-ui#1.10.4 bower_components/jquery-ui
+└── jquery#1.11.0
+
+blueimp-load-image#1.12.0 bower_components/blueimp-load-image
+
+ember#1.7.0 bower_components/ember
+├── handlebars#1.3.0
+└── jquery#1.11.0
+
+google-caja#5669.0.0 bower_components/google-caja
+
+moment#2.4.0 bower_components/moment
+
+codemirror#4.0.1 bower_components/codemirror
+
+jquery#1.11.0 bower_components/jquery
+
+hammerjs#1.0.11 bower_components/hammerjs
+
+Running "shell:ghost_ui" (shell) task
+bower ghost-ui#~0.9             cached git://github.com/TryGhost/Ghost-UI.git#0.9.1
+bower ghost-ui#~0.9           validate 0.9.1 against git://github.com/TryGhost/Ghost-UI.git#~0.9
+
+Running "update_submodules:default" (update_submodules) task
+
+Running "concat:dev" (concat) task
+File core/built/scripts/vendor-dev.js created.
+
+Running "copy:dev" (copy) task
+Created 3 directories, copied 8 files
+
+Running "clean:tmp" (clean) task
+
+Running "emberTemplates:dev" (emberTemplates) task
+File "core/built/scripts/templates-dev.js" created.
+
+Running "transpile:client" (transpile) task
+
+Running "concat_sourcemap:dev" (concat_sourcemap) task
+File "core/built/scripts/ghost-dev.js" created.
+
+Done, without errors.
